@@ -3,7 +3,7 @@
 </h3> -->
 
 <p align="center">
-  [reidlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=reidlabwastaken)](https://github.com/anuraghazra/github-readme-stats)
+  ![reidlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=reidlabwastaken&theme=dark&show_icons=true)
 </p>
 
 gamer in the bin
