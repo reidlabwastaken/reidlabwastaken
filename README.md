@@ -3,14 +3,15 @@
 </h3> -->
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/reidlabwastaken" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=reidlab&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/reidlab?label=%40reidlab&style=social"></a>  •
-  <a href="https://twitter.com/intent/follow?screen_name=reidlab&tw_p=followbutton">twitter</a> •
-  <a href="http://reidlab.tk">website</a>
+  [![reidlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=reidlabwastaken)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 gamer in the bin
 
 i do code
 
-lua is cool
+<h3>What Im Working On</h3>
+
+learning typescript
+discord.js
+ts-node
