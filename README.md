@@ -2,9 +2,7 @@
 ![image](https://i.imgur.com/oyjb8Kh.png)
 </h3> -->
 
-<p align="center">
-  ![reidlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=reidlabwastaken&theme=dark&show_icons=true)
-</p>
+  ![reidlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=reidlabwastaken&theme=tokyonight&show_icons=true)
 
 gamer in the bin
 
